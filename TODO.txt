@@ -1,5 +1,5 @@
 -Inclinations
-Sentar Orbit Distance
+-Sentar Orbit Distance
 Reduce Inaccessable Rot
 
 Slade orbit Kerbin
