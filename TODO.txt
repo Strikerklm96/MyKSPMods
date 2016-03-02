@@ -1,9 +1,14 @@
 -Inclinations
 -Sentar Orbit Distance
-Reduce Inaccessable Rot
+-Reduce Inaccessable Rot
 
-Slade orbit Kerbin
-Joker orbit Kerbin
+-Slade orbit Kerbin
+-Joker orbit Kerbin
+
+-Change Slade Description
+-Change Joker Description
+-Reduce Slade Orbit Distance
+-Increase both eccentricity
 
 Barney orbit Jool
 Inaccessable orbit Copernus
