@@ -10,6 +10,6 @@
 -Reduce Slade Orbit Distance
 -Increase both eccentricity
 
--Barney orbit Jool
+Barney orbit Jool
 Inaccessable orbit Copernus
 Ecentricy to any that have 0
