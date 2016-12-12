@@ -1,15 +1,8 @@
--Inclinations
--Sentar Orbit Distance
--Reduce Inaccessable Rot
 
--Slade orbit Kerbin
--Joker orbit Kerbin
+-add urania planets
+-skelton erin ringle ecentricity and orbit starts (radians)
 
--Change Slade Description
--Change Joker Description
--Reduce Slade Orbit Distance
--Increase both eccentricity
-
--Barney orbit Jool
--Inaccessable orbit Copernus
-Ecentricy to any that have 0
+--use new 1.1 kopernicus features
+-joker slade eq radius
+-give eve 2 more moons
+-add atmosphere to other kerbin planets
