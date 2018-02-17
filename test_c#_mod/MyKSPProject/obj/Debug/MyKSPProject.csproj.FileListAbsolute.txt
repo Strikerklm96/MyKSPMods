@@ -1,0 +1,15 @@
+C:\Users\leon\Desktop\projects\MyKSPMods\test_c#_mod\MyKSPProject\bin\Debug\MyKSPProject.dll
+C:\Users\leon\Desktop\projects\MyKSPMods\test_c#_mod\MyKSPProject\bin\Debug\MyKSPProject.pdb
+C:\Users\leon\Desktop\projects\MyKSPMods\test_c#_mod\MyKSPProject\bin\Debug\Assembly-CSharp.dll
+C:\Users\leon\Desktop\projects\MyKSPMods\test_c#_mod\MyKSPProject\bin\Debug\UnityEngine.dll
+C:\Users\leon\Desktop\projects\MyKSPMods\test_c#_mod\MyKSPProject\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\leon\Desktop\projects\MyKSPMods\test_c#_mod\MyKSPProject\bin\Debug\KSPTrackIR.dll
+C:\Users\leon\Desktop\projects\MyKSPMods\test_c#_mod\MyKSPProject\bin\Debug\UnityEngine.UI.dll
+C:\Users\leon\Desktop\projects\MyKSPMods\test_c#_mod\MyKSPProject\bin\Debug\KSPAssets.dll
+C:\Users\leon\Desktop\projects\MyKSPMods\test_c#_mod\MyKSPProject\bin\Debug\Mono.Cecil.dll
+C:\Users\leon\Desktop\projects\MyKSPMods\test_c#_mod\MyKSPProject\bin\Debug\TDx.TDxInput.dll
+C:\Users\leon\Desktop\projects\MyKSPMods\test_c#_mod\MyKSPProject\bin\Debug\Mono.Security.dll
+C:\Users\leon\Desktop\projects\MyKSPMods\test_c#_mod\MyKSPProject\bin\Debug\UnityEngine.xml
+C:\Users\leon\Desktop\projects\MyKSPMods\test_c#_mod\MyKSPProject\obj\Debug\MyKSPProject.csprojResolveAssemblyReference.cache
+C:\Users\leon\Desktop\projects\MyKSPMods\test_c#_mod\MyKSPProject\obj\Debug\MyKSPProject.dll
+C:\Users\leon\Desktop\projects\MyKSPMods\test_c#_mod\MyKSPProject\obj\Debug\MyKSPProject.pdb
